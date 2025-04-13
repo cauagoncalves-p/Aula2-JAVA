@@ -1,4 +1,6 @@
+import br.java.screenmath.calculos.FiltroRecomendacao;
 import br.java.screenmath.calculos.calculadoraDeTempo;
+import br.java.screenmath.modelos.Episodio;
 import br.java.screenmath.modelos.Filme;
 import br.java.screenmath.modelos.Serie;
 
@@ -11,9 +13,9 @@ public class Principal {
         meuFilme.setDuracaoEmMinutos(108);;
         meuFilme.setIncluidoNoPlano(true);;
         meuFilme.exibeFichaTecnica();
-        meuFilme.avalia(15);
-        meuFilme.avalia(20);
-        meuFilme.avalia(14);
+        meuFilme.avalia(10);
+        meuFilme.avalia(7);
+        meuFilme.avalia(5);
         System.out.println(meuFilme.getSomaAvaliacao());
 
         System.out.println(meuFilme.pegaMedia());
@@ -27,10 +29,18 @@ public class Principal {
         serie.setMinutosTemporadas(260);
         System.out.println("Duração para maratonar naruto: " + serie.getDuracaoEmMinutos());
 
-
         calculadoraDeTempo calc = new calculadoraDeTempo();
         calc.inclui(meuFilme);
         calc.inclui(serie);
         System.out.println(calc.getTempoTotal());
+
+        FiltroRecomendacao filtro = new FiltroRecomendacao();
+        filtro.filtre(meuFilme);
+
+        Episodio episodio = new Episodio();
+        episodio.setNumero(1);
+        episodio.setSerie(serie);
+        episodio.setTotalVisualizacoes(300);
+        filtro.filtre(episodio);
     };
 }
