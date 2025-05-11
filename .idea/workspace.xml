@@ -5,31 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2151cfc3-f5c6-4ecc-bcbc-69c0674666fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CalculadoraSalaRetangular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conversor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConverterMoeda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/CalculoGeometrico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/CalculosAP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ConversaoFinanceira.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ConversorMoeda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ConversorTemperatura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/ConversorTemperaturaPadrao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Servico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Tabuada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/TabuadaNumero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Vendavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TabuadaMultiplicacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Venda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/calculos/Classificavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/calculos/FiltroRecomendacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Episodio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/Principal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/screenmath/modelos/Filme.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/screenmath/modelos/Filme.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Alunos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Produtos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/calculadoraDeTempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/calculos/calculadoraDeTempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/IdadePessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Filme.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/screenmath/calculadoraDeTempo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Filme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +29,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,21 +36,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;cauagoncalves-p&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "cauagoncalves-p"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/cauagoncalves-p/Aula2-JAVA.git&quot;,
-    &quot;accountId&quot;: &quot;14e58b01-b3cd-4c70-a464-9aa887773253&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/cauagoncalves-p/Aula2-JAVA.git",
+    "accountId": "14e58b01-b3cd-4c70-a464-9aa887773253"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2vdSOLmI3pUfMqvPPWn0FmqLKkC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -71,15 +60,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Alunos.executor": "Run",
-    "Application.CalculadoraSalaRetangular.executor": "Run",
     "Application.Conta.executor": "Run",
-    "Application.Conversor.executor": "Run",
-    "Application.ConverterMoeda.executor": "Run",
     "Application.Pessoa.executor": "Run",
     "Application.Principal.executor": "Run",
     "Application.Produtos.executor": "Run",
-    "Application.TabuadaMultiplicacao.executor": "Run",
-    "Application.Venda.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
