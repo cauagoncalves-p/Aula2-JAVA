@@ -4,22 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2151cfc3-f5c6-4ecc-bcbc-69c0674666fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Alunos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Produtos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/calculadoraDeTempo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/calculos/calculadoraDeTempo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Filme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/IdadePessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Serie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Titulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Filme.java" beforeDir="false" />
+    <list default="true" id="2151cfc3-f5c6-4ecc-bcbc-69c0674666fa" name="Changes" comment="aprendendo sobre orientação a objeto com java">
+      <change afterPath="$PROJECT_DIR$/src/screenmath/modelos/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Alunos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/CalculadoraSalaRetangular.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Conta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Conversor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/ConverterMoeda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Produtos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/TabuadaMultiplicacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Venda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/screenmath/calculos/Classificavel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/screenmath/calculos/FiltroRecomendacao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/screenmath/calculos/calculadoraDeTempo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/screenmath/modelos/Aluno$contaBancaria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/screenmath/modelos/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/screenmath/modelos/Episodio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/screenmath/modelos/Filme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/screenmath/modelos/IdadePessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/screenmath/modelos/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/screenmath/modelos/Serie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/screenmath/modelos/Titulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Alunos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/Alunos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CalculadoraSalaRetangular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/CalculadoraSalaRetangular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conversor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/Conversor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConverterMoeda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/ConverterMoeda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Produtos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/Produtos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TabuadaMultiplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/TabuadaMultiplicacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/Venda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/java/screenmath/calculos/Classificavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmath/calculos/Classificavel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/java/screenmath/calculos/FiltroRecomendacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmath/calculos/FiltroRecomendacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/java/screenmath/calculos/calculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmath/calculos/calculadoraDeTempo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmath/modelos/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmath/modelos/Episodio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmath/modelos/Filme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/java/screenmath/modelos/IdadePessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmath/modelos/IdadePessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmath/modelos/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmath/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/java/screenmath/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/screenmath/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,21 +64,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "cauagoncalves-p"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cauagoncalves-p&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/cauagoncalves-p/Aula2-JAVA.git",
-    "accountId": "14e58b01-b3cd-4c70-a464-9aa887773253"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cauagoncalves-p/Aula2-JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;14e58b01-b3cd-4c70-a464-9aa887773253&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2vdSOLmI3pUfMqvPPWn0FmqLKkC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -68,9 +99,15 @@
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/cauag/IdeaProjects/Aula2-JAVA"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cauag\IdeaProjects\Aula2-JAVA\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,6 +117,70 @@
       <option name="presentableId" value="Default" />
       <updated>1744473424958</updated>
     </task>
+    <task id="LOCAL-00001" summary="aprendendo sobre orientação a objeto com java">
+      <option name="closed" value="true" />
+      <created>1746932539329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746932539329</updated>
+    </task>
+    <task id="LOCAL-00002" summary="aprendendo sobre orientação a objeto com java">
+      <option name="closed" value="true" />
+      <created>1746932546284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746932546284</updated>
+    </task>
+    <task id="LOCAL-00003" summary="aprendendo sobre orientação a objeto com java">
+      <option name="closed" value="true" />
+      <created>1746932559421</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746932559421</updated>
+    </task>
+    <task id="LOCAL-00004" summary="aprendendo sobre orientação a objeto com java">
+      <option name="closed" value="true" />
+      <created>1746932574027</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746932574027</updated>
+    </task>
+    <task id="LOCAL-00005" summary="aprendendo sobre orientação a objeto com java">
+      <option name="closed" value="true" />
+      <created>1746932810006</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1746932810006</updated>
+    </task>
+    <task id="LOCAL-00006" summary="aprendendo sobre orientação a objeto com java">
+      <option name="closed" value="true" />
+      <created>1746932835363</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746932835363</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aprendendo sobre orientação a objeto com java" />
+    <option name="LAST_COMMIT_MESSAGE" value="aprendendo sobre orientação a objeto com java" />
   </component>
 </project>

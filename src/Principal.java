@@ -1,17 +1,18 @@
-import br.java.screenmath.calculos.FiltroRecomendacao;
-import br.java.screenmath.calculos.calculadoraDeTempo;
-import br.java.screenmath.modelos.Episodio;
-import br.java.screenmath.modelos.Filme;
-import br.java.screenmath.modelos.Serie;
+import screenmath.calculos.FiltroRecomendacao;
+import screenmath.calculos.calculadoraDeTempo;
+import screenmath.modelos.Episodio;
+import screenmath.modelos.Filme;
+import screenmath.modelos.Pessoa;
+import screenmath.modelos.Serie;
+
+import java.util.ArrayList;
 
 public class Principal {
     public static void main(String[] args) {
-        Filme meuFilme = new Filme();
-
-        meuFilme.setNome("Naruto");;
-        meuFilme.setAnoDeLancamento(2003);
-        meuFilme.setDuracaoEmMinutos(108);;
-        meuFilme.setIncluidoNoPlano(true);;
+        Filme meuFilme;
+        meuFilme = new Filme("Naruto",2003);
+        meuFilme.setDuracaoEmMinutos(108);
+        meuFilme.setIncluidoNoPlano(true);
         meuFilme.exibeFichaTecnica();
         meuFilme.avalia(10);
         meuFilme.avalia(7);
@@ -20,9 +21,7 @@ public class Principal {
 
         System.out.println(meuFilme.pegaMedia());
 
-        Serie serie = new Serie();
-        serie.setNome("Naruto");
-        serie.setAnoDeLancamento(2006);
+        Serie serie = new Serie("Naruto",2006);
         serie.exibeFichaTecnica();
         serie.setTemporadas(10);
         serie.setMinutosEpisodios(20);
@@ -42,5 +41,39 @@ public class Principal {
         episodio.setSerie(serie);
         episodio.setTotalVisualizacoes(300);
         filtro.filtre(episodio);
+
+        var filmeDoPaulo = new Filme("Harry Potter",2005);
+        filmeDoPaulo.avalia(10);
+
+        ArrayList<Filme> listaDeFilmes = new ArrayList<>();
+
+        listaDeFilmes.add(filmeDoPaulo);
+        listaDeFilmes.add(meuFilme);
+
+        System.out.println("Tamanho da lista: " + listaDeFilmes.size());
+        System.out.println("Primeiro filme: " + listaDeFilmes.get(0).getNome());
+        System.out.println(listaDeFilmes);
+
+        System.out.println("toString do filme: " + listaDeFilmes.get(0).toString());
+
+        Pessoa pessoa1 = new Pessoa();
+        pessoa1.setNome("Cauã");
+        pessoa1.setIdade(18);
+
+        Pessoa pessoa2 = new Pessoa();
+        pessoa2.setNome("Pedro");
+        pessoa2.setIdade(15);
+
+        Pessoa pessoa3 = new Pessoa();
+        pessoa3.setNome("Maria");
+        pessoa3.setIdade(21);
+
+        var listaDePessoa = new ArrayList<Pessoa>();
+        listaDePessoa.add(pessoa1);
+        listaDePessoa.add(pessoa2);
+        listaDePessoa.add(pessoa3);
+        System.out.println("Tamanho da lista: " + listaDePessoa.size());
+        System.out.println("Primeira pessoa da lista: " + listaDePessoa.get(0).getNome());
+        System.out.println(listaDePessoa.toString());
     };
 }
