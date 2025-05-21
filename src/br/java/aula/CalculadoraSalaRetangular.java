@@ -1,6 +1,6 @@
 package br.java.aula;
 
-import Exercicios.CalculosAP;
+import Exercicios.Classes.CalculosAP;
 
 public class CalculadoraSalaRetangular {
     public static void main(String[] args) {

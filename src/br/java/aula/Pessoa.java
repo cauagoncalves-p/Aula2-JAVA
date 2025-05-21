@@ -1,6 +1,6 @@
 package br.java.aula;
 
-import screenmath.modelos.IdadePessoa;
+import br.java.aula.screenmath.modelos.IdadePessoa;
 
 public class Pessoa {
     public static void main(String[] args) {

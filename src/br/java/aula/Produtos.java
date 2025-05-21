@@ -1,6 +1,6 @@
 package br.java.aula;
 
-import screenmath.modelos.Produto;
+import br.java.aula.screenmath.modelos.Produto;
 public class Produtos {
     public static void main(String[] args) {
         Produto produto = new Produto();

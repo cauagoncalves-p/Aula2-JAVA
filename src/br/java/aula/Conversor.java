@@ -1,6 +1,6 @@
 package br.java.aula;
 
-import Exercicios.ConversorTemperaturaPadrao;
+import Exercicios.Classes.ConversorTemperaturaPadrao;
 
 public class Conversor {
     public static void main(String[] args) {

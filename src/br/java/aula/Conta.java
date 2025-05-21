@@ -1,6 +1,6 @@
 package br.java.aula;
 
-import screenmath.modelos.Aluno;
+import br.java.aula.screenmath.modelos.Aluno;
 
 public class Conta {
     public static void main(String[] args) {

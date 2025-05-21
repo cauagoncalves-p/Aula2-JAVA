@@ -1,6 +1,6 @@
 package br.java.aula;
 
-import screenmath.modelos.Aluno;
+import br.java.aula.screenmath.modelos.Aluno;
 public class Alunos {
     public static void main(String[] args) {
         Aluno aluno = new Aluno();

@@ -1,7 +1,7 @@
 package br.java.aula;
 
-import Exercicios.Produto;
-import Exercicios.Servico;
+import Exercicios.Classes.Produto;
+import Exercicios.Classes.Servico;
 
 public class Venda {
     public static void main(String[] args) {

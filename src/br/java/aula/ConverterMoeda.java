@@ -1,6 +1,6 @@
 package br.java.aula;
 
-import Exercicios.ConversorMoeda;
+import Exercicios.Classes.ConversorMoeda;
 
 public class ConverterMoeda {
     public static void main(String[] args) {
