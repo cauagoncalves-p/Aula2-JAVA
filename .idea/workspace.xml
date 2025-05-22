@@ -5,78 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2151cfc3-f5c6-4ecc-bcbc-69c0674666fa" name="Changes" comment="aprendendo sobre orientação a objeto com java">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Classes/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Classes/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Classes/Produto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/java/aula/principal/PrincipalComListas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Classes/COntaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Classes/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Classes/Quadrado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Interfaces/Forma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Exercicios/CalculoGeometrico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Exercicios/CalculosAP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Exercicios/ConversaoFinanceira.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Exercicios/ConversorMoeda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Exercicios/ConversorTemperatura.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Exercicios/ConversorTemperaturaPadrao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Exercicios/Produto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Exercicios/Servico.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Exercicios/Tabuada.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Exercicios/TabuadaNumero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Exercicios/Vendavel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Principal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/Alunos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/Alunos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/CalculadoraSalaRetangular.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/CalculadoraSalaRetangular.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/Conta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/Conversor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/Conversor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/ConverterMoeda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/ConverterMoeda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/Produtos.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/Produtos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/TabuadaMultiplicacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/TabuadaMultiplicacao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/Venda.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/Venda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/screenmath/calculos/Classificavel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/screenmath/calculos/FiltroRecomendacao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/screenmath/calculos/calculadoraDeTempo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/screenmath/modelos/Aluno$contaBancaria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/screenmath/modelos/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/screenmath/modelos/Episodio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/screenmath/modelos/Filme.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/screenmath/modelos/IdadePessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/screenmath/modelos/Pessoa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/screenmath/modelos/Produto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/screenmath/modelos/Serie.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/screenmath/modelos/Titulo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/CalculoGeometrico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Interfaces/CalculoGeometrico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/CalculosAP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Classes/CalculosAP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ConversaoFinanceira.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Interfaces/ConversaoFinanceira.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ConversorMoeda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Classes/ConversorMoeda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ConversorTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Interfaces/ConversorTemperatura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/ConversorTemperaturaPadrao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Classes/ConversorTemperaturaPadrao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Classes/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/Servico.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Classes/Servico.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/Tabuada.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Interfaces/Tabuada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/TabuadaNumero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Classes/TabuadaNumero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios/Vendavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Interfaces/Vendavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/principal/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/aula/Alunos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/Alunos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/aula/CalculadoraSalaRetangular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/CalculadoraSalaRetangular.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/aula/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/aula/Conversor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/Conversor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/aula/ConverterMoeda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/ConverterMoeda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/aula/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/aula/Produtos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/Produtos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/aula/TabuadaMultiplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/TabuadaMultiplicacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/aula/Venda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/Venda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screenmath/calculos/Classificavel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/calculos/Classificavel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screenmath/calculos/FiltroRecomendacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/calculos/FiltroRecomendacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screenmath/calculos/calculadoraDeTempo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/calculos/calculadoraDeTempo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screenmath/modelos/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screenmath/modelos/Episodio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Episodio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screenmath/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screenmath/modelos/IdadePessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/IdadePessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screenmath/modelos/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screenmath/modelos/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screenmath/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screenmath/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -99,12 +34,12 @@
     &quot;assignee&quot;: &quot;cauagoncalves-p&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/cauagoncalves-p/Aula2-JAVA.git",
-    "accountId": "aa3520c3-1bed-46d8-8241-b8f2e3cd1312"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cauagoncalves-p/Aula2-JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;aa3520c3-1bed-46d8-8241-b8f2e3cd1312&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -112,7 +47,6 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2vdSOLmI3pUfMqvPPWn0FmqLKkC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -130,13 +64,27 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/cauag/IdeaProjects/Aula2-JAVA"
+    "last_opened_file_path": "C:/Users/cauag/IdeaProjects/Aula2-JAVA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\cauag\IdeaProjects\Aula2-JAVA\src" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -146,6 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744473424958</updated>
+      <workItem from="1747935814856" duration="5700000" />
     </task>
     <task id="LOCAL-00001" summary="aprendendo sobre orientação a objeto com java">
       <option name="closed" value="true" />
@@ -197,6 +146,9 @@
     </task>
     <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
