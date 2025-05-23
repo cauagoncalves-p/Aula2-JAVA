@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2151cfc3-f5c6-4ecc-bcbc-69c0674666fa" name="Changes" comment="aprendendo sobre orientação a objeto com java">
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Classes/COntaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Classes/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Classes/Quadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Interfaces/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios/Classes/Titulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/Exercicios/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/Exercicios/Principal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/principal/PrincipalComListas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/principal/PrincipalComListas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/screenmath/modelos/Serie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/screenmath/modelos/Serie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/screenmath/modelos/Titulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/screenmath/modelos/Titulo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercicios/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/java/aula/principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/principal/PrincipalComListas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Serie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +41,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/cauagoncalves-p/Aula2-JAVA.git&quot;,
-    &quot;accountId&quot;: &quot;aa3520c3-1bed-46d8-8241-b8f2e3cd1312&quot;
+    &quot;accountId&quot;: &quot;7eb32e4c-a812-490b-be9e-051915ba83ae&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -70,6 +74,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -94,7 +99,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744473424958</updated>
-      <workItem from="1747935814856" duration="5700000" />
+      <workItem from="1747935814856" duration="5844000" />
+      <workItem from="1748018165723" duration="7196000" />
     </task>
     <task id="LOCAL-00001" summary="aprendendo sobre orientação a objeto com java">
       <option name="closed" value="true" />
@@ -144,7 +150,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746932835363</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="aprendendo sobre orientação a objeto com java">
+      <option name="closed" value="true" />
+      <created>1747945025735</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747945025735</updated>
+    </task>
+    <task id="LOCAL-00008" summary="aprendendo sobre orientação a objeto com java">
+      <option name="closed" value="true" />
+      <created>1747945034554</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747945034554</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
