@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2151cfc3-f5c6-4ecc-bcbc-69c0674666fa" name="Changes" comment="aprendendo sobre orientação a objeto com java">
-      <change afterPath="$PROJECT_DIR$/src/Exercicios/Classes/Titulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/screenMath/Exercicios/Principal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/Exercicios/Principal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/principal/PrincipalComListas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/principal/PrincipalComListas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/screenmath/modelos/Serie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/screenmath/modelos/Serie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/screenmath/modelos/Titulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/screenMath/br/java/aula/screenmath/modelos/Titulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios/Classes/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Classes/Titulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercicios/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/aula/principal/PrincipalComListas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/principal/PrincipalComListas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/java/aula/screenmath/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,33 +45,34 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2vdSOLmI3pUfMqvPPWn0FmqLKkC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Alunos.executor": "Run",
-    "Application.Conta.executor": "Run",
-    "Application.Pessoa.executor": "Run",
-    "Application.Principal.executor": "Run",
-    "Application.PrincipalComListas.executor": "Run",
-    "Application.Produtos.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/cauag/IdeaProjects/Aula2-JAVA",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Alunos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrincipalComListas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Produtos.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/cauag/IdeaProjects/Aula2-JAVA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\cauag\IdeaProjects\Aula2-JAVA\src" />

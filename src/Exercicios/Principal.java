@@ -70,41 +70,51 @@ public class Principal {
 
         //System.out.printf(String.valueOf(maiorSaldo));
 
+//
+//       var numeros = new ArrayList<Integer>();
+//
+//        numeros.add(1);
+//        numeros.add(2);
+//        numeros.add(3);
+//        numeros.add(5);
+//        numeros.add(4);
+//        numeros.add(0);
+//
+//        System.out.println(numeros);
+//        Collections.sort(numeros);
+//        System.out.println(numeros);
+//
+//        var titulos = new ArrayList<Titulo>();
+//        var t = new Titulo();
+//        var t1 = new Titulo();
+//        var t2 = new Titulo();
+//
+//        t.setNome("Caio");
+//        t1.setNome("Abner");
+//        t2.setNome("Banana");
+//
+//        titulos.add(t);
+//        titulos.add(t1);
+//        titulos.add(t2);
+//
+//        System.out.println("Lista de palavras: ");
+//        System.out.println(titulos);
+//
+//        System.out.println("Lista de titulos ordenados");
+//        Collections.sort(titulos);
+//        System.out.println(titulos);
 
-       var numeros = new ArrayList<Integer>();
+        List<String> lista;
 
-        numeros.add(1);
-        numeros.add(2);
-        numeros.add(3);
-        numeros.add(5);
-        numeros.add(4);
-        numeros.add(0);
+        lista = new LinkedList<String>();
+        lista.add("Maça");
+        lista.add("Pera");
 
-        System.out.println(numeros);
-        Collections.sort(numeros);
-        System.out.println(numeros);
+        System.out.println(lista);
 
-        var titulos = new ArrayList<Titulo>();
-        var t = new Titulo();
-        var t1 = new Titulo();
-        var t2 = new Titulo();
+        lista = new ArrayList<String>();
 
-        t.setNome("Caio");
-        t1.setNome("Abner");
-        t2.setNome("Banana");
-
-        titulos.add(t);
-        titulos.add(t1);
-        titulos.add(t2);
-
-        System.out.println("Lista de palavras: ");
-        System.out.println(titulos);
-
-        System.out.println("Lista de titulos ordenados");
-        Collections.sort(titulos);
-        System.out.println(titulos);
-
-
-
+        lista.add("Pepino");
+        System.out.println(lista);
     }
 }
